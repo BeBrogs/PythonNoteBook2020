@@ -1,0 +1,7 @@
+oval -  start/end
+
+slanted rectangle - input/output
+
+rectangle - A process
+
+Rhombos/diamond - Question / if statement

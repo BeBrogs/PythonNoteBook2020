@@ -1,0 +1,29 @@
+
+Why Should you learn python?
+
+	Most popular lang in colleges & unis and has no sign of changing
+
+	Growing exponentially fast in popularity for Devs
+
+	(imo) BEST OOP LANG FOR NEW PROGRAMMERS
+
+	Python is an Object-Oriented, High-Level multi-paradigm programming language with dynamic features.
+	
+	Great for system operations, data management, analysis and visualization
+
+	Best Lang in 2020 for app development, web appp/web development, system administration, scientific computing, scripting & ethical 	network & web app pen testing
+
+
+	Rich & SUPPORTIVE COMMUNITY (Data on Stack Overflow shows Python was the most visited tag across in US and UK - 2018)
+
+	Open source - source code is publically available
+
+	Comes with a huge standard library
+
+	Is a cross platform language - runs smoothly on windows, linux, mac
+
+	Career opportunities associated with Python have also grown significantly as its popularity has increased by 40%.
+
+
+
+	
